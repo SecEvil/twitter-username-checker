@@ -28,7 +28,7 @@ This tool loads a list of usernames from a file and checks each one silently. If
 ## 🚀 Usage
 
 ```bash
-git clone https://github.com/YourUsername/twitter-username-checker.git
+git clone https://github.com/SecEvil/twitter-username-checker.git
 cd twitter-username-checker
 pip install -r requirements.txt
 python main.py
