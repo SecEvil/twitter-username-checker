@@ -56,4 +56,4 @@ _______________   ____.___.____
 
 ## 📁 Output
 
-- `available_usernames_selenium.txt` → All free usernames
+- `available_user_evil.txt` → All free usernames
