@@ -10,7 +10,7 @@ This tool loads a list of usernames from a file and checks each one silently. If
 
 - Fast username checker using **headless Chrome**
 - Reads usernames from `usernames.txt`
-- Saves available names to `available_usernames_selenium.txt`
+- Saves available names to `available_user_evil.txt`
 - Full console output
 - Clean and minimal code
 
