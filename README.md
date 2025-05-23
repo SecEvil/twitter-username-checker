@@ -31,7 +31,7 @@ This tool loads a list of usernames from a file and checks each one silently. If
 git clone https://github.com/SecEvil/twitter-username-checker.git
 cd twitter-username-checker
 pip install -r requirements.txt
-python main.py
+python Evil_Twitter_User.py
 ```
 
 Put your usernames (one per line) in `usernames.txt`
