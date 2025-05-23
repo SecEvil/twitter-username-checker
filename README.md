@@ -50,7 +50,7 @@ _______________   ____.___.____
 ```
 
 - 🔗 Telegram: [https://t.me/EvilHeere](https://t.me/EvilHeere)  
-- 🔗 Backup: [https://t.me/spamingEVIL](https://t.me/spamingEVIL)
+- 🔗 My channel: [https://t.me/spamingEVIL](https://t.me/spamingEVIL)
 
 ---
 
